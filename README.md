@@ -2,7 +2,7 @@
 
 A working prototype exploring how AI **system cards** could be made legible to the people a model actually affects — and auditable by the people who hold the lab to account. Built on one real section of a real card: the cybersecurity capability material from OpenAI's [GPT-5.6 Preview System Card](https://deploymentsafety.openai.com/gpt-5-6-preview) (June 26, 2026).
 
-**Live page:** _(GitHub Pages URL)_
+**Live page:** https://fmanjoo.github.io/tailored-system-card/
 
 ## The problem
 
